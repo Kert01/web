@@ -1,0 +1,8 @@
+eco "# web" >> README.md
+git init
+git añadir README.md
+git commit -m "primer commit"
+rama git - M principal
+git remote agregar origen git@github.com:Kert01/web.git
+git push -u origen principal
+
